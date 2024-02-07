@@ -2,7 +2,7 @@
 
 ## Project: Automating Accounting Procedures for a Business 
 ### Project Overview: 
-The aim of this project was to build a software that automate daily tasks for a business operation
+The aim of this project was to build a software that automates daily tasks for a business operation
 
 ### Key Features:
 1.	Calculate Total Sales for the Day: from sales data for morning and evening shifts, produce total sales for the day.
