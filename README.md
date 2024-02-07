@@ -36,5 +36,5 @@ Include error handling for scenarios such as division by zero.
 ### Exiting the Program:
 Provide an option for users to exit the program.
 
-![Alt text]()
+![Alt text](https://github.com/Sunday-Oladokun/Business-Accounting-Automation/blob/main/Main%20(BAA)%20Program%20FlowChart.jpg)
 
