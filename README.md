@@ -35,3 +35,6 @@ Include error handling for scenarios such as division by zero.
 
 ### Exiting the Program:
 Provide an option for users to exit the program.
+
+![Alt text]()
+
